@@ -1,0 +1,12 @@
+1) Stackoverflow - https://stackoverflow.com/questions/3949226/calculating-pearson-correlation-and-significance-in-python
+		   https://stackoverflow.com/questions/20868394/changing-a-specific-column-name-in-pandas-dataframe
+		   https://stackoverflow.com	
+2) Scipy - https://docs.scipy.org/doc/
+3) Pandas - https://pandas.pydata.org/pandas-docs/stable/tutorials.html
+4) Wikipedia - https://en.wikipedia.org/wiki/RMS_Titanic
+5) Kaggle - https://www.kaggle.com/c/titanic
+6) z - test to compare means of two samples - http://www.socscistatistics.com/tests/ztest/ 
+7) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/
+8) https://lifehacker.com/5909501/how-to-choose-the-best-chart-for-your-data
+9) Tutorials point - tutorialspoint.com/python_pandas/
+10) Matplotlib - https://matplotlib.org/tutorials/index.html
